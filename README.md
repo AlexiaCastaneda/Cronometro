@@ -4,7 +4,7 @@
 Es una aplicación de una sola ventana y se encarga de tomar el tiempo con minutos y segundos.
 
 ###Visuals
-
+![](images/app.png)
 
 ### Installation
 Esta aplicación se creó en Android Studio con la ayuda de Windows 10, puede ser ejecutable desde la versión 4.0 de Android, 
