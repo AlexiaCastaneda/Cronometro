@@ -5,6 +5,8 @@ Es una aplicación de una sola ventana y se encarga de tomar el tiempo con minut
 
 ###Visuals
 
+![](images/app.png)
+
 
 
 
