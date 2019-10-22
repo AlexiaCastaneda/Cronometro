@@ -5,7 +5,7 @@ Es una aplicación de una sola ventana y se encarga de tomar el tiempo con minut
 
 ###Visuals
 
-![](images/captura_app.png)
+![app](https://user-images.githubusercontent.com/55455793/67263718-be19ab80-f45d-11e9-97a8-e28d34a8e996.png)
 
 
 
